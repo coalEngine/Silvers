@@ -11,6 +11,8 @@ Random Facts about me:
 - My favorite video game is The Legend of Zelda: Breath of the Wild
 
 - How to reach me: react0rdiscontact@gmail.com
+- CodePen: https://codepen.io/ULTfarmer
+- LeetCode: https://leetcode.com/React0rDisc/
 
 - ⚡ Fun fact: my favorite color is blue.
 
