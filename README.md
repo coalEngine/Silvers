@@ -14,7 +14,7 @@ Random Facts about me:
 - CodePen: https://codepen.io/ULTfarmer
 - LeetCode: https://leetcode.com/React0rDisc/
 
-- ⚡ Fun fact: my favorite color is blue.
+- ⚡ Fun facts: my favorite color is blue.
 - My Favorite food is pizza 
 
 -->
