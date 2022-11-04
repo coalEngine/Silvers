@@ -17,13 +17,13 @@ Random Facts about me:
 How to reach me: 
 react0rdiscontact@gmail.com or typicalthiery@gmail.com either is fine
 
-## Other Sites
+### Other Sites
 
 - CodePen: https://codepen.io/ULTfarmer
 - LeetCode: https://leetcode.com/React0rDisc/
 
 
-## ⚡ Fun facts: 
+### ⚡ Fun facts: 
 my favorite color is blue.
 
 
