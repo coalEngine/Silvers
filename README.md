@@ -24,7 +24,7 @@ react0rdiscontact@gmail.com or typicalthiery@gmail.com either is fine
 
 
 ### ⚡ Fun facts: 
-my favorite color is blue.
+My favorite color is blue.
 
 
 -->
