@@ -19,7 +19,10 @@ react0rdiscontact@gmail.com or typicalthiery@gmail.com either is fine
 - CodePen: https://codepen.io/ULTfarmer
 - LeetCode: https://leetcode.com/React0rDisc/
 
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 ## ⚡ Fun facts: 
