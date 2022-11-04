@@ -11,9 +11,10 @@ Random Facts about me:
 - I like cats 
 - My favorite video game of all time is The Legend of Zelda: Breath of the Wild
 
-- How to reach me: 
+How to reach me: 
 react0rdiscontact@gmail.com or typicalthiery@gmail.com either is fine
 
+Other Sites
 
 - CodePen: https://codepen.io/ULTfarmer
 - LeetCode: https://leetcode.com/React0rDisc/
