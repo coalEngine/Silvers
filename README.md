@@ -12,7 +12,7 @@ Random Facts about me:
 
 - I live in New York. 
 - I like cats 
-- My favorite video game of all time is The Legend of Zelda: Breath of the Wild
+- My favorite video games of all time are The Legend of Zelda: Breath of the Wild/Undertale
 
 How to reach me: 
 react0rdiscontact@gmail.com or typicalthiery@gmail.com either is fine
