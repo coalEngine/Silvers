@@ -1,4 +1,7 @@
-### Hello
+<h1>
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ </h1>
 
 - I am planning on working on more projects in the future, and doing Leetcode
 - I’m currently learning more about Java.
@@ -18,11 +21,6 @@ react0rdiscontact@gmail.com or typicalthiery@gmail.com either is fine
 
 - CodePen: https://codepen.io/ULTfarmer
 - LeetCode: https://leetcode.com/React0rDisc/
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 ## ⚡ Fun facts: 
