@@ -4,14 +4,15 @@
  </h1>
 
 - I am planning on working on more projects in the future and doing Leetcode
-- I’m currently learning more about Java.
+- I’m currently working on a massive project in Godot
 - I’m willing to collaborate on anything that is within my ability.
-- I currently know C# (Unity), HTML, Python (Basic Level), JavaScript, Java, CSS, Visual Basic, Typescript, Lua
+- I currently know C# (Unity), HTML, Python (Adv Level), JavaScript, Java, CSS, Visual Basic, Typescript, Lua
 
 Random Facts about me: 
 
 - I live in New York. 
-- I like cats 
+- I like cats.
+- I'm 17
 - My favorite video games of all time are The Legend of Zelda: Breath of the Wild and Undertale
 
 How to reach me: 
