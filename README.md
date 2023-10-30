@@ -6,7 +6,7 @@
 - I am planning on working on more projects in the future and doing Leetcode
 - I’m currently working on a massive project in Godot
 - I’m willing to collaborate on anything that is within my ability.
-- I currently know C# (Unity), HTML, Python, JavaScript, Java, CSS, Visual Basic, and C++. All of them IK know fluently 
+- I currently know C# (Unity), HTML, Python, JavaScript, Java, CSS, Visual Basic, and C++. All of them IK fluently 
 
 
 How to reach me: 
