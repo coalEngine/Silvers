@@ -15,7 +15,7 @@ react0rdiscontact@gmail.com or thieryjblol@gmail.com either is fine
 Random Facts about me: 
 - I live in New York. 
 - I like cats.
-- I'm 17
+- I'm 18
 - My favorite video games of all time are Dwarf Fortress and Sonic The Hedgehog
 
 -->
